@@ -4,7 +4,7 @@
 <dict>
 	<key>BGTaskSchedulerPermittedIdentifiers</key>
 	<array>
-		<string>io.nekohasekai.sfa.update_profiles</string>
+		<string>io.nekohasekai.sfapp.update_profiles</string>
 	</array>
 	<key>CFBundleURLTypes</key>
 	<array>
@@ -35,7 +35,7 @@
 	</dict>
 	<key>NSUbiquitousContainers</key>
 	<dict>
-		<key>iCloud.io.nekohasekai.sfa</key>
+		<key>iCloud.io.nekohasekai.sfapp</key>
 		<dict>
 			<key>NSUbiquitousContainerIsDocumentScopePublic</key>
 			<true/>
@@ -60,7 +60,7 @@
 			<string>Owner</string>
 			<key>LSItemContentTypes</key>
 			<array>
-				<string>io.nekohasekai.sfa.profile</string>
+				<string>io.nekohasekai.sfapp.profile</string>
 			</array>
 			<key>CFBundleTypeIconFile</key>
 			<string>AppIcon.icns</string>
@@ -80,7 +80,7 @@
 			<key>UTTypeIconFiles</key>
 			<array/>
 			<key>UTTypeIdentifier</key>
-			<string>io.nekohasekai.sfa.profile</string>
+			<string>io.nekohasekai.sfapp.profile</string>
 			<key>UTTypeTagSpecification</key>
 			<dict>
 				<key>public.filename-extension</key>
@@ -106,7 +106,7 @@
 				<string>AppIcon.icns</string>
 			</array>
 			<key>UTTypeIdentifier</key>
-			<string>io.nekohasekai.sfa.profile</string>
+			<string>io.nekohasekai.sfapp.profile</string>
 			<key>UTTypeTagSpecification</key>
 			<dict>
 				<key>public.filename-extension</key>
